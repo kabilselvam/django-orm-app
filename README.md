@@ -40,6 +40,9 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+SERVER OUTPUT
+![2](https://user-images.githubusercontent.com/127846320/234750839-f083830d-da66-437e-af34-8ef8f8fd9978.png)
+CLIENT OUTPUT
 ![Screenshot 2023-04-19 184143](https://user-images.githubusercontent.com/127846320/233085347-719901ce-206a-49bd-a99a-a0fd71beaf3d.png)
 
 
